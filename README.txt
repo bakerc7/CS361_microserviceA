@@ -23,3 +23,5 @@ subprocess.run(['python', programToReadData.py', 'specify file location here'])
 
 The weather data points that are written into the csv file are the same as those that have been provided initially. Therefore, the main program can be selective about which weather data is written into the csv file. Data points such as max temperature can be accessed on its own or with other specified points.
 The output will contain the weather data for each upcoming day of the week from the current date.
+
+![Alt text](UML1.png)
